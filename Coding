@@ -9,7 +9,7 @@ int main()
 //REMARKS
 //SUPPLY OR FAIL
 
-char name[30], dept[30], section[30];
+char name[40], dept[40], section[40];
 int rollno, math, biology, english, physics, chemistry, obtained, percentage;
 
 //taking user details
